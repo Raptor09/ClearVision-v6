@@ -16,8 +16,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #131313; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #FF6800; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #FF6800; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #131313; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
@@ -51,7 +51,7 @@
   --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
   --background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
   --background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
-  --background-blur: 10px; /* app background blur [default: 0px] */
+  --background-blur: 5px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
   --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
